@@ -1,0 +1,14 @@
+{
+  "name": "zyxe-ticket-bot",
+  "version": "1.0.0",
+  "description": "ZYXE Ticket System Discord Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "dev": "node main.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1"
+  }
+}
